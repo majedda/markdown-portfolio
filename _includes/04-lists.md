@@ -1,8 +1,6 @@
--Food
-  *Pizza
-  *Burgers
-  *Fries
--Sports
-  *Soccer
-  *Basketball
-  *Football
+*Pizza
+*Burger
+*Fries
+*Soccer
+*Basketball
+*Football
